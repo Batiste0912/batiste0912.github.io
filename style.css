@@ -67,7 +67,8 @@ header h2 a {
 }
 
 header h2 a:hover {
-    text-shadow: 1px 1px 1px var(--pink);
+    color: var(--pink);
+    text-shadow: 1px 1px 1px var(--white);
 }
 
 #section_main {
@@ -76,4 +77,4 @@ header h2 a:hover {
     background-color: var(--ocean-blue);
 }
 
-/*Passage en menu hamburger à 900px*/
+/*Passage en menu hamburger à 1056px*/
