@@ -122,7 +122,7 @@ header h2 a:hover {
     align-items: center;
     height: 300px;
     width: 200px;
-    margin: 24px 12px;
+    margin: 24px 16px;
     background-color: var(--dark-blue);
     border-radius: 20px;
     border: double var(--white);
@@ -303,4 +303,4 @@ header h2 a:hover {
     color: var(--white);
 }
 
-/*Passage en menu hamburger à 1050px*/
+/*Passage en menu burger à 1050px*/
